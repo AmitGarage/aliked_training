@@ -1,2 +1,2 @@
 # aliked_training
-Training aliked model with your own custom date
+Training aliked model with your own custom data
